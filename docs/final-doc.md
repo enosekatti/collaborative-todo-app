@@ -129,11 +129,15 @@ A command-line and GUI-based collaborative to-do list application supporting mul
 } 
 
 ### User Schema
+```json
+{
 "userId": "string (UUID)",
 "username": "string",
 "email": "string",
 "createdAt": "ISO 8601 timestamp",
 "updatedAt": "ISO 8601 timestamp"
+}
+
 
 ## Category System Definition
 WORK: Professional tasks, meetings, deadlines, projects
