@@ -1,0 +1,15 @@
+{
+  "name": "enose-collaborative-todo",
+  "version": "1.0.0",
+  "description": "Command-line and GUI-ready collaborative to-do list with concurrent access support",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "cli": "node src/index.js",
+    "test": "node --test tests/category.test.js tests/task-status.test.js tests/user.test.js tests/task.test.js"
+  },
+  "keywords": ["todo", "collaborative", "cli", "async", "concurrent"],
+  "author": "",
+  "license": "MIT"
+}

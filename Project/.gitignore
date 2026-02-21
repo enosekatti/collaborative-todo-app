@@ -1,0 +1,6 @@
+node_modules/
+data/
+*.log
+.env
+java/target/
+java/data/
