@@ -126,7 +126,8 @@ A command-line and GUI-based collaborative to-do list application supporting mul
   "assigneeId": "string (userId)",
   "createdAt": "ISO 8601 timestamp",
   "updatedAt": "ISO 8601 timestamp"
-} 
+}
+```
 
 ### User Schema
 ```json
@@ -137,6 +138,7 @@ A command-line and GUI-based collaborative to-do list application supporting mul
 "createdAt": "ISO 8601 timestamp",
 "updatedAt": "ISO 8601 timestamp"
 }
+```
 
 
 ## Category System Definition
