@@ -154,7 +154,7 @@ PENDING -> COMPLETED (skip in progress)
 COMPLETED -> PENDING (reopen task)
 IN_PROGRESS -> PENDING (pause task)
 
-## 5. Task Assignment & Roles
+## Task Assignment & Roles
 
 Member 1: Basanta Ghorashainee
 Role: Java Implementation Lead
