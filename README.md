@@ -9,7 +9,9 @@ This project involves creating a collaborative to-do list application in two pro
 
 ## Core Features
 - Multi-user support for adding, removing, and marking tasks as complete.
-- Task categorization and status tracking (e.g., completed, pending).
+- Task categorization (e.g., Work, Personal, Urgent) and status tracking (e.g., completed, pending).
+- Task assignment: tasks can be assigned to specific users.
+- User-specific views: each user sees tasks assigned to them.
 - Concurrency support for simultaneous user access and task editing.
 - Real-time task updates and synchronization.
 
