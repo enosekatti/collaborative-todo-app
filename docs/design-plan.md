@@ -36,7 +36,7 @@ A command-line and GUI-based collaborative to-do list application supporting mul
 
 ## Language-Specific Implementation
 
-### Java Implementation (Member 1: Enose Katti)
+### Java Implementation (Member 1: Basanta Ghorashainee)
 **Architecture Pattern**: Object-Oriented Design with Thread-based Concurrency
 
 **Key Components**:
@@ -50,6 +50,8 @@ A command-line and GUI-based collaborative to-do list application supporting mul
 
 **Concurrency Strategy**: Use Java's `ReentrantReadWriteLock` for task operations, `synchronized` keyword for critical sections, and thread-safe collections (ConcurrentHashMap, CopyOnWriteArrayList).
 
+### JavaScript Implementation (Member 2: Enose Katti)
+**Architecture Pattern**: Functional Design with Async/Await
 ### JavaScript Implementation (Member 2: Basanta Ghorashainee)
 **Architecture Pattern**: Functional/Modular Design with Async/Await
 

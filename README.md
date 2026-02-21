@@ -4,7 +4,7 @@
 This project involves creating a collaborative to-do list application in two programming languages: Java and JavaScript. The goal is to compare how each language handles similar functionalities, emphasizing language-specific features and design patterns.
 
 ## GitHub Repository
-- **Repository**: [Collaborative To-Do App](https://github.com/yourorg/collaborative-todo-app)
+- **Repository**:https://github.com/enosekatti/collaborative-todo-app
 - **Status**: Active Development
 
 ## Core Features
@@ -27,8 +27,8 @@ This project involves creating a collaborative to-do list application in two pro
 - `tests/`: Unit and integration tests for both implementations.
 
 ## Team Members
-- **Member 1**: Enose Katti (Java Implementation)
-- **Member 2**: Basanta Ghorashainee (JavaScript Implementation)
+- **Member 1**: Basanta Ghorashainee (Java Implementation)
+- **Member 2**: Enose Katti (JavaScript Implementation)
 
 ## Timeline
 - **Day 1**: Complete planning, design, and GitHub repository setup. ✓
