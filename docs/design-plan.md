@@ -10,7 +10,7 @@
 
 ## Language-Specific Implementation
 
-### Java Implementation (Member 1: Enose Katti)
+### Java Implementation (Member 1: Basanta Ghorashainee)
 **Architecture Pattern**: Object-Oriented Design with Thread-based Concurrency
 
 **Key Components**:
@@ -21,7 +21,7 @@
 
 **Concurrency Strategy**: Use Java's `synchronized` keyword and `ReentrantLock` for thread-safe operations.
 
-### JavaScript Implementation (Member 2: Basanta Ghorashainee)
+### JavaScript Implementation (Member 2: Enose Katti)
 **Architecture Pattern**: Functional Design with Async/Await
 
 **Key Components**:
