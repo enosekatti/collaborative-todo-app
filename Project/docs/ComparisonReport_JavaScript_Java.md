@@ -156,5 +156,3 @@ Oracle. (n.d.). *Java 17 API documentation*. https://docs.oracle.com/en/java/jav
 Maven Project. (n.d.). *Apache Maven*. https://maven.apache.org/
 
 ---
-
-*Report follows APA 7 guidelines for structure and references. Code snippets are for illustrative comparison only.*
